@@ -1,5 +1,5 @@
 {
-	"name": "@surveyplanet/svelte-components",
+	"name": "jwerre/svelte-components",
 	"version": "1.1.0-alpha.22",
 	"description": "A collection of Svelte UI components",
 	"keywords": [
@@ -7,12 +7,9 @@
 	],
 	"license": "MIT",
 	"author": "Jonah Werre <jonahwerre@gmail.com> (https://github.com/jwerre)",
-	"contributors": [
-		"Ognjen Ugljenovic <ognjen@surveyplanet.com>"
-	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:surveyplanet/svelte_components.git"
+		"url": "git@github.com:jwerre/svelte_components.git"
 	},
 	"main": "dist/index.js",
 	"type": "module",
