@@ -14,11 +14,11 @@ export type ButtonProps = HTMLButtonAttributes & {
 import type { Snippet } from 'svelte';
 import { ComponentEvent } from './';
 declare const __propDef: {
-    props: Record<string, never>;
-    events: {
-        [evt: string]: CustomEvent<any>;
-    };
-    slots: {};
+	props: ButtonProps;
+	events: {
+		[evt: string]: CustomEvent<any>;
+	};
+	slots: {};
 };
 type ButtonProps_ = typeof __propDef.props;
 export type ButtonEvents = typeof __propDef.events;
