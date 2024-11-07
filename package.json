@@ -22,8 +22,7 @@
 		"./styles": "./styles/main.scss"
 	},
 	"files": [
-		"dist",
-		"styles"
+		"dist"
 	],
 	"scripts": {
 	},
